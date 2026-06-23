@@ -45,9 +45,9 @@ I enjoy the full journey from idea → code → deployed product.
 
 ## 📬 Connect with me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F2D5E?style=flat-square&logo=google-chrome&logoColor=white)](https://jatinmor89.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F2D5E?style=flat-square&logo=google-chrome&logoColor=white)](https://jatinmor89.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jatin-mor-6b10043b6)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jatinmor89@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jatinmor342@gmail.com)
 
 ---
 
