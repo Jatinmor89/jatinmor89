@@ -26,12 +26,12 @@ I enjoy the full journey from idea → code → deployed product.
 
 | Project | Stack | Live |
 |---|---|---|
-| **NeuralChat AI** | Node.js · Express · LLM API | [↗ Railway](YOUR_RAILWAY_URL) |
-| **Blog Platform** | Node.js · Express · Vercel | [↗ Vercel](YOUR_VERCEL_URL) |
-| **Pokémon Explorer** | JS · PokéAPI | [↗ GitHub Pages](YOUR_URL) |
-| **GitHub Profile Finder** | JS · GitHub API | [↗ Live](YOUR_URL) |
-| **Expense Tracker** | JS · localStorage | [↗ Live](YOUR_URL) |
-| **Quiz App** | JS · CSS Animations | [↗ Netlify](YOUR_URL) |
+| **NeuralChat AI** | Node.js · Express · LLM API | [↗ Railway] |
+| **Blog Platform** | Node.js · Express · Vercel | [↗ Vercel] |
+| **Pokémon Explorer** | JS · PokéAPI | [↗ GitHub Pages] |
+| **GitHub Profile Finder** | JS · GitHub API | [↗ Live] |
+| **Expense Tracker** | JS · localStorage | [↗ Live] |
+| **Quiz App** | JS · CSS Animations | [↗ Netlify] |
 
 ---
 
